@@ -1,88 +1,111 @@
-# Project Name
-Write your project name here
+# Study Abroad Technical Consultation & Student Support
 
 ---
 
-# Project Idea
-Brief description of the project idea and the problem it solves.
+## 📌 Project Idea
 
-Example:
-This project focuses on designing a visual identity and marketing assets for a brand. 
-The goal is to create a consistent visual system including logo, poster design, and supporting materials.
+This project focuses on developing a full digital marketing strategy for a Study Abroad Technical Consultation & Student Support service targeting Egyptian students.
 
----
-
-# Team Members
-- Name 1
-- Name 2
-- Name 3
+The project aims to:
+- Educate students about studying abroad opportunities
+- Address misconceptions and reduce fear
+- Guide students through application & visa processes
+- Build trust with both students and parents
+- Generate qualified consultation leads
 
 ---
 
-# Work Plan
+## 👥 Team Members (pentaRae)
 
-## 1. Research & Analysis
-- Market research
-- Audience personas
-- Competitor analysis
-
-## 2. Visual Identity
-- Logo design
-- Color palette
-- Typography
-
-## 3. Main Designs
-- Poster design
-- Core visual assets
-
-## 4. Complementary Products
-- Social media visuals
-- Supporting materials
-
-## 5. Review & Finalization
-- Internal review
-- Final adjustments
-
-## 6. Final Presentation
-- Prepare final presentation
-- Submit project files
+Full details available in:
+📂 /01_Team/00_Team_Members.xlsx
 
 ---
 
-# Roles & Responsibilities
+## 🗂️ Work Plan
 
-| Team Member | Role | Responsibilities |
-|-------------|------|------------------|
-| Mayar | Project Lead | Research & coordination |
-| Member 2 | Designer | Logo & visual identity |
-| Member 3 | Content | Presentation & documentation |
+### 1. Research & Analysis
+- Survey Insights & Recommendations  
+📂 /02_Research/02_Survey_Insights_Recommendations.xlsx  
 
----
-
-# KPIs (Key Performance Indicators)
-
-- Design quality
-- Audience clarity
-- Visual consistency
-- Completion of project milestones
+- SWOT & PESTEL Analysis  
+📂 /02_Research/03_SWOT_PESTEL_Analysis.xlsx  
 
 ---
 
-# Instructor
-Instructor Name
+### 2. Visual Identity
+- (To be developed within design scope – not included in this phase)
 
 ---
 
-# Project Files
-
-You can find the project files here:
-
-/project-files
+### 3. Main Designs
+- Poster & Content Visual Direction (covered in content strategy)
 
 ---
 
-# License
+### 4. Complementary Products
+- Content Strategy Framework  
+📂 /06_Content/07_Content_Strategy.xlsx  
 
-This project is licensed under the MIT License.
+- Content Calendar (1 Month Plan)  
+📂 /06_Content/Content_Calendar.rtf  
 
+---
 
+### 5. Review & Finalization
+- Awareness Gap Analysis & Strategic Recommendations  
+📂 /07_Execution/Awareness Gap Analysis.docx  
+
+---
+
+### 6. Final Presentation
+- Full Execution Plan  
+📂 /07_Execution/Study Abroad Service Execution Plan.xlsx  
+
+---
+
+## 👤 Roles & Responsibilities
+
+| Role | Responsibility |
+|------|----------------|
+| Strategy Lead | Overall marketing strategy & SOSTAC development |
+| Research Lead | Survey analysis & market insights |
+| Content Lead | Content strategy & calendar development |
+| Performance Lead | Ads structure & funnel planning |
+
+---
+
+## 📊 KPIs (Key Performance Indicators)
+
+- Reach & Awareness Growth  
+- Engagement Rate (likes, shares, comments)  
+- Video Views (Reels performance)  
+- Number of Leads Generated  
+- Cost per Lead (CPL)  
+- Consultation Booking Rate  
+
+---
+
+## 👨‍🏫 Instructor
+
+[Add Instructor Name]
+
+---
+
+## 📁 Project Files
+
+All project files are organized into structured folders inside this repository:
+
+- Team Information → /01_Team  
+- Research & Analysis → /02_Research  
+- Strategy → /03_Strategy  
+- Audience → /04_Audience  
+- Market Analysis → /05_Market  
+- Content Strategy → /06_Content  
+- Execution → /07_Execution  
+
+---
+
+## 📜 License
+
+This project is submitted for educational purposes as part of the DEPI program requirements.
