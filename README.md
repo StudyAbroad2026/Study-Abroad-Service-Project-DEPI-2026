@@ -22,7 +22,7 @@ This project develops a digital marketing strategy for a study abroad consultati
 ---
 
 ### 2. Visual Identity
-- Not included in this phase
+- In Progress
 
 ---
 
