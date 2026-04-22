@@ -10,7 +10,7 @@ This project focuses on developing a data-driven digital marketing strategy for 
 
 The project addresses key awareness gaps such as misconceptions about affordability, visa difficulty, and application complexity.
 
-The strategy aims to educate, build trust, and guide students through the decision-making process while generating qualified consultation leads.
+The strategy aims to educate, build trust, and guide parents and students through the decision-making process while generating qualified consultation leads.
 
 ---
 
