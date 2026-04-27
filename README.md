@@ -73,7 +73,7 @@ The goal is to simplify the study abroad journey and increase accessibility thro
 - 📈 Reach: 500–700 per paid post  
 - 💬 Engagement Rate: 4% – 6%  
 - 👍 Interactions: 30–50 per post  
-- 📩 Leads: 10–15 inquiries/month  
+- 📩 Leads: 3–10 inquiries/month  
 
 ---
 
