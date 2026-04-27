@@ -20,11 +20,11 @@ The goal is to simplify the study abroad journey and increase accessibility thro
 ## 👥 Team Members (pentaRae)
 
 - Mayar Nabil  
-- Mohamed  
-- Sherry  
-- Shrouk  
-- Asmaa  
-- Mahaba  
+- Mohamed El Nahas 
+- Shery Mikhael
+- Shrouk Zaki
+- Asmaa El Mezayen
+- Mahaba William 
 
 > Full details available in project files
 
