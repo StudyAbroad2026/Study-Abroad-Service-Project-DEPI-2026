@@ -64,12 +64,7 @@ The goal is to simplify the study abroad journey and increase accessibility thro
 ## 🎯 Roles & Responsibilities
 
 | Role | Responsibility |
-|------|--------------|
-| Strategy Lead | Overall marketing & business strategy |
-| Research Team | Market analysis & survey insights |
-| Content Team | Social media content & creatives |
-| Ads Specialist | Paid campaigns & optimization |
-| Project Coordinator | Execution tracking & reporting |
+> Full details available in project files
 
 ---
 
